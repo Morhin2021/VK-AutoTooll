@@ -1,4 +1,4 @@
-Telegram_bot_token = "5518982542:AAETDL6HG8gzd4Nw1z5UXvwgpW9-W4qf30I"
-Profile_id = "731461246"
-Photo_id = "457239017"
-Post_id = "wall731461246_1"
+Telegram_bot_token = "Токен Telegram бота"
+Profile_id = "Айди страницы, на которую вы хотите накрутить друзей"
+Photo_id = "Фото, на которое вы хотите накрутить лайки"
+Post_id = "Пост, на который вы хотите накрутить ретвиты"
